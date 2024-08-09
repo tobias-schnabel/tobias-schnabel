@@ -1,16 +1,21 @@
-## Hi there 👋
+## Howdy!
 
-<!--
-**tobias-schnabel/tobias-schnabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc in Statistical Science student at Oxford passionate about causal inference, forecasting, and energy.
 
-Here are some ideas to get you started:
+- 🎓 Stats, Econometrics & Operations Research, Economics at Oxford, Maastricht (Exchange at Texas A&M), and Heidelberg
+- 🔭 Currently working on matrix completion methods for causal inference and panel data forecasting [(Now available on Pip)](https://github.com/tobias-schnabel/mcnnm?tab=readme-ov-file)
+- 🌱 Interested in asking and answering useful questions using data
+- 📢 Experienced in communicating technical material
+- 🚀 Future goal: Applying  statistical methods to energy markets and commodity trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Python**: (`pandas`, `NumPy`, `PyTorch`, `sklearn`, `JAX`, `Optuna`, `XGBoost`)
+- **R** (`Base`, `tidyverse`, `data.table`, `fect`, `fixest`, `modelsummary`, ...)
+- You can find some of my projects on machine learning and data visualisation on my personal website, as well as in the GitHub highlights right below this text.
+
+### Interests
+📸 Photography | 🏔️ Mountaineering | 🏎️ Formula 1
+
+Feel free to connect and reach out, I am always working on and looking for interesting projects and inspirations!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiasschnabel/)
