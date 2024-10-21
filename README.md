@@ -1,15 +1,17 @@
 ## Howdy!
 
-I'm an MSc in Statistical Science student at Oxford passionate about causal inference, forecasting, and energy.
+I'm a recent MSc in Statistical Science graduate passionate about causal inference, forecasting, and energy.
 
 - 🎓 Stats, Econometrics & Operations Research, Economics at Oxford, Maastricht (Exchange at Texas A&M), and Heidelberg
-- 🔭 Currently working on matrix completion methods for causal inference and panel data forecasting [(Now available on Pip)](https://github.com/tobias-schnabel/mcnnm?tab=readme-ov-file)
+- 📝 Recently finished my master's thesis on panel data forecasting for day-ahead power prices [(available here)](https://github.com/tobias-schnabel/mc-forecasting)
+- 🔭 Recently worked on matrix completion methods for causal inference and panel data forecasting [(Now available on Pip)](https://github.com/tobias-schnabel/mcnnm?tab=readme-ov-file)
 - 🌱 Interested in asking and answering useful questions using data
 - 📢 Experienced in communicating technical material
 - 🚀 Future goal: Applying  statistical methods to energy markets and commodity trading
 
 ### Skills
 - **Python**: (`pandas`, `NumPy`, `PyTorch`, `sklearn`, `JAX`, `Optuna`, `XGBoost`)
+- **SQL**: Postgres, PostGIS
 - **R** (`Base`, `tidyverse`, `data.table`, `fect`, `fixest`, `modelsummary`, ...)
 - You can find some of my projects on machine learning and data visualisation on my personal website, as well as in the GitHub highlights right below this text.
 
